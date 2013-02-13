@@ -1,7 +1,9 @@
 # [Freshdesk API](https://github.com/chriscct7/FreshdeskApi) 
 -----------
 Version: 0.5
+
 Author: Chris Christoff (@chriscct7)
+
 Description: This is a FreshDesk API library designed in PHP
 
 FAQ's
