@@ -9,8 +9,6 @@ Description: This is a FreshDesk API library designed in PHP
 FAQ's
 -----------
 
-To get started, [check out our installation guide](http://forum.jigoshop.com/kb/getting-started/installation)!
-
 1. Why does it look like a WP Plugin part?
 
 	This API was originally designed to allow customers to submit help tickets from the WP backend.
